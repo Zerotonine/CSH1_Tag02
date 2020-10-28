@@ -1,0 +1,7 @@
+﻿/* Aufgabe 0 (Basics)
+ * Schreiben Sie eine statische Funktion, die vom Benutzer eine Zahl abfragt und die eingegebene Zahl als Integer zurück gibt.
+ * Geben Sie im Main zum Testen die eingegebene Zahl in der Konsole aus.
+ * Übergabewert: Keine
+ * Rückgabewert: Die eingegebene Zahl
+ * Hinweis: Die Eingabe findet immer als String statt. Dieser String muss nach der Eingabe in einen Integer konvertiert werden.
+ */

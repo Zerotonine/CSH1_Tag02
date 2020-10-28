@@ -1,0 +1,12 @@
+/*
+
+Schreiben Sie bitte ein C#-Programm, das 
+a) einen Integer-Wert solange abfragt, bis er mindestens die Größe 10 hat
+b) bei jeder zu kleinen Eingabe eine Fehlermeldung ausgibt
+c) bei einer Eingabe von mindestens 10 mit einer Erfolgsmeldung das Programm beendet
+d) die Konsole bis zu einem beliebigen Tastendruck festhält
+
+Bemerkungen:
+1) Auch while und do-while Schleifen unterscheiden sich in C# nicht von denen in ANSI C
+2) Fehleingaben im Sinne von Buchstaben, Zeichen, oder Kommazahlen werden vom Programm NICHT abgefangen 
+*/

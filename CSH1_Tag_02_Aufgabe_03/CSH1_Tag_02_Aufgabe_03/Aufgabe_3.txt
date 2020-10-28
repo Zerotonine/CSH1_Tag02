@@ -1,0 +1,15 @@
+/*
+    AUFGABE A
+    Schreiben Sie bitte die folgende Funktion (und testen Sie diese im Main)
+    Name: InputINT
+    Übergabewert (Parameter): 1 String als User-Informations-Text (z.B."Geben Sie bitte eine ganze Zahl ein: ")
+    Funktion: Gibt den übergebenen String aus und fragt vom User eine ganze Zahl ab (OHNE Überprüfung der Korrektheit der User-Eingabe)
+    Rückgabewert: User-Eingabe
+
+    AUFGABE B
+    Schreiben Sie bitte ein C#-Programm, in dem (unter Verwendung der Funktion aus Teilaufgabe A) ...
+    - eine Schleife solange durchlaufen wird, bis der User die Eingabe 42 tätigt
+    - bei jeder falschen Eingabe eine Fehlermeldung auf der Konsole erscheint
+    - bei der ersten korrekten Eingabe die Schleife beendet und eine Erfolgsmeldung ausgegeben wird
+                  
+*/
